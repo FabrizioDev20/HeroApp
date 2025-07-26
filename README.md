@@ -3,7 +3,7 @@
 ## 🖼️ Capturas de pantalla
 
 <p align="center">
-  <img src="https://github.com/FabrizioDev20/HeroApp/issues/1#issue-3266188475" width=32%/>
+  <img src="https://user-images.githubusercontent.com/219591788/471153052-14f1f9b6-78fb-4366-9a32-868f60d50285.jpg" width=32%/>
   <img src="https://user-images.githubusercontent.com/38768001/135744933-eb5fe0c6-5eb6-4820-9759-5b1ec77085b3.png" width=32%/>
   <img src="https://user-images.githubusercontent.com/38768001/135744699-ca34dd3b-be30-4dc1-9b25-b6e057ed53d7.png" width=32%/>
 </p>
