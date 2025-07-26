@@ -1,9 +1,9 @@
 # HeroApp 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203355_EasyHero.jpg" width="32%" height="640"/>
-  <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203402_EasyHero.jpg" width="32%" height="640"/>
-  <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203406_EasyHero.jpg" width="32%" height="640"/>
+  <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203355_EasyHero.jpg" width="32%" height="635"/>
+  <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203402_EasyHero.jpg" width="32%" height="635"/>
+  <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203406_EasyHero.jpg" width="32%" height="635"/>
 </p>
 
 **HeroApp** es una aplicación mobile desarrollada para Android (usando Jetpack Compose) y iOS (usando SwiftUI). Permite explorar héroes ficticios con detalles, imágenes y navegación fluida. Este proyecto representa una integración práctica de tecnologías modernas para cada plataforma con enfoque en arquitectura limpia y diseño intuitivo.
