@@ -1,7 +1,5 @@
 # HeroApp 🚀
 
-## 🖼️ Capturas de pantalla
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203355_EasyHero.jpg" width="32%" />
   <img src="https://raw.githubusercontent.com/FabrizioDev20/HeroApp/master/screenshots/Screenshot_20250724_203402_EasyHero.jpg" width="32%" />
